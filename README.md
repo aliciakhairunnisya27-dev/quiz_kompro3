@@ -1,2 +1,2 @@
-Nama: Alicia Khairunnisya
-NPM : G1A025025
+Alicia Khairunnisya (G1A025025)
+
