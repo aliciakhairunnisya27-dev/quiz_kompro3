@@ -1,6 +1,6 @@
 public class soal3_2 {
     public static void main(String[] args) {
-    int jam = 10;
+    int jam = 20;
 
     if (jam < 12){
     System.out.println("Pagi, tarif Rp 5000");
@@ -14,4 +14,5 @@ public class soal3_2 {
   }  
 }
     
+
 
