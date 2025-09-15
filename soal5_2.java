@@ -1,7 +1,7 @@
 public class soal5_2 {
      public static void main(String[] args) {
         boolean anggota = true;
-        boolean bayar = true;
+        boolean bayar = false;
 
     if (anggota){
         if (bayar) { 
